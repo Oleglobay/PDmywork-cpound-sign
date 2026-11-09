@@ -1,0 +1,7 @@
+﻿  Hunter.cpp
+  LB3.cpp
+  main.cpp
+C:\Users\User\OneDrive\Рабочий стол\LB3\LB3\main.cpp(13,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Menu.cpp
+  Generating Code...
+  LB3.vcxproj -> C:\Users\User\OneDrive\Рабочий стол\LB3\x64\Debug\LB3.exe
